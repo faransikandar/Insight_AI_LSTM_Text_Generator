@@ -1,1 +1,1 @@
-# Insight_AI_Google_Colab
+# Insight_AI_LSTM_Text_Generator
